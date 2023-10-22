@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthcareApp</string>
+    <string name="health_care">Healthcare Service</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="newAccount">Register for new account</string>
+    <string name="register">User Information</string>
+    <string name="haveAccount">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="cf_password">Confirm password</string>
+</resources>
